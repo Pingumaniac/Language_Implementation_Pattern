@@ -1,2 +1,2 @@
-# Language_Implementation_Pattern
+# Language_Implementation_Patterns
 Based on "Language Implementation Patterns" by Terence Parr
