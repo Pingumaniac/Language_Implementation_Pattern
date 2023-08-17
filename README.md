@@ -1,5 +1,5 @@
 # Language_Implementation_Patterns
-Based on "Language Implementation Patterns" by Terence Parr
+Based on "Language Implementation Patterns" by Terence Parr. Most of the codes are based on the book, and I have slightly modified them.
 
 ## About each chapter
 * Part I - Getting Started with Parsing
