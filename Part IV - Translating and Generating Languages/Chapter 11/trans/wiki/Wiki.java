@@ -1,3 +1,5 @@
+package wiki;
+
 // Generated from Wiki.g by ANTLR 4.13.0
 import java.util.*;
 import java.io.*;
